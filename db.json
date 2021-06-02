@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "FactSet Joining",
+      "day": "June 14th, Monday",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Learn MERN stack",
+      "day": "June 10th",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Final Project review & Viva",
+      "day": "July 1st at 12 pm",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
